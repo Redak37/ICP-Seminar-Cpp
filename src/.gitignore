@@ -1,0 +1,11 @@
+
+obj/
+/build/
+
+\.project
+
+\.cproject
+
+sachy
+
+\.qmake\.stash
